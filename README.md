@@ -24,9 +24,9 @@ Both moving average strategies share identical risk-management rules to ensure a
 
 ## Tech Stack
 * **Python 3**
-* **Pandas & NumPy** — Vectorized signal generation, return compounding, and risk metrics
-* **yFinance** — Historical OHLCV market data acquisition
-* **Matplotlib** — Multi-panel trade signal and equity curve visualization
+* **Pandas & NumPy**
+* **yFinance** 
+* **Matplotlib** 
 
 ## How to Run
 1. Clone the repository:
